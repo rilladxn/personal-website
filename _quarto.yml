@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Priscilla Dixon"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Landing Page
+      - about.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
