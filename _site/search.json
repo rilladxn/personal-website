@@ -4,13 +4,69 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Coursework \nSTATS 20: INTRODUCTION TO STATISTICAL PROGRAMMING WITH R\nMATH 33A: LINEAR ALGEBRA AND APPLICATIONS\nMATH 170E: INTRODUCTION TO PROBABILITY\nSTATS 100B: INTRODUCTION TO MATHEMATICAL STATISTICS\nSTATS 100C: LINEAR MODELS\nSTATS 101A: INTRODUCTION TO DATA ANALYSIS AND REGRESSION\nSTATS 101B: INTRODUCTION TO DESIGN AND ANALYSIS OF EXPERIMENT\nSTATS 101C: INTRODUCTION TO STATISTICAL MODELS AND DATA MINING\nSTATS 102A: INTRODUCTION TO COMPUTATIONAL STATISTICS\nSTATS 102B: INTRODUCTION TO COMPUTATION AND OPTIMIZATION FOR STATISTICS\nSTATS 102C: INTRODUCTION TO MONTE CARLO METHODS\nSTATS 140XP/141XP: PRACTICE OF STATISTICAL CONSULTING"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Priscilla Dixon",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Priscilla is a fourth year student studying Statistics and Data Science at the University of California, Los Angeles. When not innovating on data platforms, she enjoys spending time making matcha and hunting for the best local cafes.\nHere is my resume!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Priscilla Dixon",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles  B.S. in Statistics and Data Science  Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Priscilla Dixon",
+    "section": "Experience",
+    "text": "Experience\nProta Designs | Data Analytics Intern  January 2025 - Present"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are a few of my projects!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAirline Review Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Exam Score Forecasting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLife Expectancy Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNBA Performance Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Airline Review Dashboard",
+    "section": "",
+    "text": "2024\n\nAbout\nI developed an interactive Tableau dashboard to analyze British Airways customer reviews from 2016 to 2023. The dashboard includes dynamic filters allowing users to explore satisfaction trends based on traveler type, seat class, aircraft, and region. I designed various visualizations that adjust based on user-selected metrics. This dashbaord provides insights into airline performance, helping understand customer satisfaction trends over time.\n\n\nThe Dashboard"
+  },
+  {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Life Expectancy Analysis",
+    "section": "",
+    "text": "2024\n\nAbout\nI worked alongside my team to analyze the socioeconomic factors influencing life expectancy through statistical modeling. We collaboratively developed a multiple linear regression model to assess the impact of five key variables on life expectancy across 193 countries, using data from the WHO and United Nations (2000-2015).\nMy contributions included transforming key predictors like GDP and HIV rates to enhance model accuracy, as well as leading the diagnostic testing phase to refine our approach. Together, we interpreted the results, which showed that higher government health expenditure and BMI are positively correlated with longer life expectancy, while higher HIV death rates are linked to shorter life expectancy. Our collective efforts provided important insights into global health outcomes and informed recommendations for improving population health.\n\n\nthe slide deck"
+  },
+  {
+    "objectID": "projects/project_3.html#going-to-sleep",
+    "href": "projects/project_3.html#going-to-sleep",
+    "title": "project_3",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "NBA Performance Analysis",
+    "section": "",
+    "text": "2024\n\nAbout\nOur team developed a predictive model for NBA game outcomes using historical game statistics. Our goal was to predict game results by engineering new features, such as home court advantage and win streaks, which could significantly influence a team’s performance. We employed a variety of models, including logistic regression, KNN, random forest, and XGBoost, to optimize predictions. My role involved leading the feature engineering process and fine-tuning the models to improve their accuracy. After evaluating different models, we found that the ensemble method, along with XGBoost, yielded the best performance, with an impressive 80% accuracy on testing data. This project showcased how combining historical data and advanced machine learning techniques can provide valuable insights for predicting sports outcomes and optimizing team strategies.\n\n\nThe Report"
+  },
+  {
+    "objectID": "projects/project_4.html",
+    "href": "projects/project_4.html",
+    "title": "Final Exam Score Forecasting",
+    "section": "",
+    "text": "2025\n\nAbout\nMy team and I explored factors influencing academic performance by analyzing a dataset of 6,607 students. The study aimed to identify key predictors of students’ success, such as attendance, hours studied, tutoring sessions, access to resources, and demographic influences. We used exploratory data analysis (EDA) techniques to clean and preprocess the data, followed by logistic regression modeling to predict whether students’ final exam scores would fall above or below the median. Additionally, we applied K-fold cross-validation to ensure model robustness and checked for multicollinearity among predictors. This project provided valuable insights into the relationship between student behaviors, available resources, and demographic factors in shaping academic outcomes.\n\n\nThe Report"
   }
 ]

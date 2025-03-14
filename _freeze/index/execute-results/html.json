@@ -1,0 +1,16 @@
+{
+  "hash": "4c038bf15af4c63a5242c6e9a8061d8a",
+  "result": {
+    "markdown": "---\ntitle: \"Priscilla Dixon\"\nabout:\n  template: trestles\n  image: Priscilla.png\n  links: \n    - icon: envelope\n      text: Email\n      url: \"mailto:priscilladixon@ucla.edu\"\n    - icon: github\n      text: GitHub\n      href: https://github.com/priscilladixon\ntoc: false\n---\n\n\n[This is a Quarto website.](---title: \"Priscilla Dixon\"about: template: trestles image: Priscilla.png links: - icon: envelope text: Email url: \"mailto:priscilladixon@ucla.edu\" - icon: github text: GitHub href: https://github.com/priscilladixon - text: Tableau href: https://public.tableau.com/app/profile/priscilla.dixon/vizzestoc: false---Priscilla is a fourth year student studying Statistics and Data Science at the University of California, Los Angeles. When not innovating on data platforms, she enjoys spending time making matcha and trying out matchas from different cafes.Here is my CV!## EducationUniversity of California, Los Angeles | Los Angeles, CAB.S. in Statistics and Data Science | Sept 2021 - June 2025## ExperienceProta Designs | Data Analytics Intern | April 2018 - present)\n\n[To learn more about Quarto websites visit https://quarto.org/docs/websites.](---title: \"Priscilla Dixon\"about: template: trestles image: Priscilla.png links: - icon: envelope text: Email url: \"mailto:priscilladixon@ucla.edu\" - icon: github text: GitHub href: https://github.com/priscilladixon - text: Tableau href: https://public.tableau.com/app/profile/priscilla.dixon/vizzestoc: false---Priscilla is a fourth year student studying Statistics and Data Science at the University of California, Los Angeles. When not innovating on data platforms, she enjoys spending time making matcha and trying out matchas from different cafes.Here is my CV!## EducationUniversity of California, Los Angeles | Los Angeles, CAB.S. in Statistics and Data Science | Sept 2021 - June 2025## ExperienceProta Designs | Data Analytics Intern | April 2018 - present)\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 \n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 1\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

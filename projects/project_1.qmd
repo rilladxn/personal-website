@@ -1,0 +1,16 @@
+---
+title: "NBA Performance Analysis"
+image: "/basketball.jpg"
+---
+
+2024
+
+### About
+
+Our team developed a predictive model for NBA game outcomes using historical game statistics. Our goal was to predict game results by engineering new features, such as home court advantage and win streaks, which could significantly influence a team’s performance. We employed a variety of models, including logistic regression, KNN, random forest, and XGBoost, to optimize predictions. My role involved leading the feature engineering process and fine-tuning the models to improve their accuracy. After evaluating different models, we found that the ensemble method, along with XGBoost, yielded the best performance, with an impressive 80% accuracy on testing data. This project showcased how combining historical data and advanced machine learning techniques can provide valuable insights for predicting sports outcomes and optimizing team strategies.
+
+### The Report
+
+<iframe src="../project_files/NBA Prediction (Final).pdf" width="100%" height="600px">
+
+</iframe>

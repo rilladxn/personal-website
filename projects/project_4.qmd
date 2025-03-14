@@ -1,0 +1,16 @@
+---
+title: "Final Exam Score Forecasting"
+image: "/studying.jpg"
+---
+
+2025
+
+### About
+
+My team and I explored factors influencing academic performance by analyzing a dataset of 6,607 students. The study aimed to identify key predictors of students’ success, such as attendance, hours studied, tutoring sessions, access to resources, and demographic influences. We used exploratory data analysis (EDA) techniques to clean and preprocess the data, followed by logistic regression modeling to predict whether students' final exam scores would fall above or below the median. Additionally, we applied K-fold cross-validation to ensure model robustness and checked for multicollinearity among predictors. This project provided valuable insights into the relationship between student behaviors, available resources, and demographic factors in shaping academic outcomes.
+
+### The Report
+
+<iframe src="../project_files/Final Exams - Final Report.pdf" width="100%" height="600px">
+
+</iframe>

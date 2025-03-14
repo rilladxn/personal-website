@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing:
+  type: grid
+  contents:
+    - "projects/*.qmd"
+---
+
+Below are a few of my projects!
+---

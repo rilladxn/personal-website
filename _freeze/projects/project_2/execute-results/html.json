@@ -1,0 +1,14 @@
+{
+  "hash": "4624858205fa6680d4552a3ec74cb227",
+  "result": {
+    "markdown": "---\ntitle: \"Final Exam Scores\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"world\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"world\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,19 @@
+---
+title: "Life Expectancy Analysis"
+output: html_document
+image: "/balance.jpg"
+---
+
+2024
+
+### About
+
+I worked alongside my team to analyze the socioeconomic factors influencing life expectancy through statistical modeling. We collaboratively developed a multiple linear regression model to assess the impact of five key variables on life expectancy across 193 countries, using data from the WHO and United Nations (2000-2015).
+
+My contributions included transforming key predictors like GDP and HIV rates to enhance model accuracy, as well as leading the diagnostic testing phase to refine our approach. Together, we interpreted the results, which showed that higher government health expenditure and BMI are positively correlated with longer life expectancy, while higher HIV death rates are linked to shorter life expectancy. Our collective efforts provided important insights into global health outcomes and informed recommendations for improving population health.
+
+### the slide deck
+
+<iframe src="../project_files/STATS 101A PRESENTATION.pdf" width="100%" height="600px">
+
+</iframe>

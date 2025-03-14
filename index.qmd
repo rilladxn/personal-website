@@ -1,11 +1,31 @@
 ---
-title: "Personal Website"
+title: "Priscilla Dixon"
+about:
+  template: trestles
+  image: Priscilla.png
+  links: 
+    - icon: envelope
+      text: Email
+      url: "mailto:priscilladixon@ucla.edu"
+    - icon: github
+      text: GitHub
+      href: https://github.com/rilladxn
+toc: false
 ---
 
-This is a Quarto website.
+Priscilla is a fourth year student studying Statistics and Data Science at the University of California, Los Angeles. When not innovating on data platforms, she enjoys spending time making matcha and hunting for the best local cafes.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here is [my resume](/PriscillaResume.pdf)!
 
-```{r}
-1 
-```
+## Education
+
+University of California, Los Angeles <br>
+B.S. in Statistics and Data Science <br> 
+Sept 2021 - June 2025
+
+## Experience
+
+Prota Designs \| Data Analytics Intern <br>
+January 2025 - Present
+
+---
