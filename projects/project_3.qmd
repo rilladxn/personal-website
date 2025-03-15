@@ -6,8 +6,6 @@ image: "/balance.jpg"
 An analysis of socioeconomic factors influencing life expectancy, using multiple regression modeling to identify key drivers like GDP and healthcare expenditure.
 ---
 
-2024
-
 ### About
 
 I worked alongside my team to analyze the socioeconomic factors influencing life expectancy through statistical modeling. We collaboratively developed a multiple linear regression model to assess the impact of five key variables on life expectancy across 193 countries, using data from the WHO and United Nations (2000-2015).
