@@ -2,8 +2,8 @@
 title: "Final Exam Score Forecasting"
 image: "/studying.jpg"
 ---
-
-2025
+A machine learning project to predict final exam scores based on factors like attendance and study habits, aiming to help improve academic performance.
+---
 
 ### About
 

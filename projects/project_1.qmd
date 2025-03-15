@@ -2,6 +2,8 @@
 title: "NBA Performance Analysis"
 image: "/basketball.jpg"
 ---
+A machine learning project to predict NBA game outcomes based on historical statistics and features like home court advantage, using models like XGBoost and Random Forest.
+---
 
 2024
 

@@ -4,6 +4,9 @@ about:
   template: trestles
   image: Priscilla.png
   links: 
+    - icon: file
+      text: Resume
+      href: /PriscillaResume.pdf
     - icon: envelope
       text: Email
       url: "mailto:priscilladixon@ucla.edu"
@@ -13,9 +16,9 @@ about:
 toc: false
 ---
 
-Priscilla is a fourth year student studying Statistics and Data Science at the University of California, Los Angeles. When not innovating on data platforms, she enjoys spending time making matcha and hunting for the best local cafes.
+Priscilla is a fourth-year student studying Statistics and Data Science at the University of California, Los Angeles. When she\’s not diving into data storytelling, she\’s usually whipping up some matcha or exploring local cafes in search of the perfect cup.
 
-Here is [my resume](/PriscillaResume.pdf)!
+If you\’re interested in discussing anything from data trends to how matcha might just be the perfect data point, feel free to reach out. I\’m always excited to connect with like-minded individuals or explore new opportunities!
 
 ## Education
 

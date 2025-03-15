@@ -3,6 +3,8 @@ title: "Life Expectancy Analysis"
 output: html_document
 image: "/balance.jpg"
 ---
+An analysis of socioeconomic factors influencing life expectancy, using multiple regression modeling to identify key drivers like GDP and healthcare expenditure.
+---
 
 2024
 
