@@ -5,7 +5,7 @@ image: "/airplane.jpg"
 An interactive Tableau dashboard analyzing airline customer reviews, featuring dynamic filters for exploring satisfaction trends by traveler type, seat class, and region.
 ---
 
-### About
+### ABOUT
 
 I developed an interactive Tableau dashboard to analyze British Airways customer reviews from 2016 to 2023. The dashboard includes dynamic filters allowing users to explore satisfaction trends based on traveler type, seat class, aircraft, and region. I designed various visualizations that adjust based on user-selected metrics. This dashbaord provides insights into airline performance, helping understand customer satisfaction trends over time.
 
