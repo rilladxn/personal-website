@@ -5,7 +5,7 @@ image: "/basketball.jpg"
 A machine learning project to predict NBA game outcomes based on historical statistics and features like home court advantage.
 ---
 
-### About
+### ABOUT
 
 Our team developed a predictive model for NBA game outcomes using historical game statistics. Our goal was to predict game results by engineering new features, such as home court advantage and win streaks, which could significantly influence a team’s performance. We employed a variety of models, including logistic regression, KNN, random forest, and XGBoost, to optimize predictions. My role involved leading the feature engineering process and fine-tuning the models to improve their accuracy. After evaluating different models, we found that the ensemble method, along with XGBoost, yielded the best performance, with an impressive 80% accuracy on testing data. This project showcased how combining historical data and advanced machine learning techniques can provide valuable insights for predicting sports outcomes and optimizing team strategies.
 
