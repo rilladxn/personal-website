@@ -12,7 +12,7 @@ about:
       url: "mailto:priscilladixon@ucla.edu"
     - icon: github
       text: GitHub
-      href: https://github.com/rilladxn
+      href: https://github.com/priscilladixon
 toc: false
 ---
 
