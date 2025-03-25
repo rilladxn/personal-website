@@ -3,10 +3,10 @@ title: "Priscilla Dixon"
 about:
   template: trestles
   image: Priscilla.png
-  links: 
+  links:
     - icon: file
       text: Resume
-      href: /PriscillaResume.pdf
+      href: /PriscillaDixonResume.pdf
     - icon: envelope
       text: Email
       url: "mailto:priscilladixon@ucla.edu"
@@ -20,11 +20,12 @@ Priscilla is a fourth-year student studying Statistics and Data Science at the U
 
 If you\’re interested in discussing anything from data trends to how matcha might just be the perfect data point, feel free to reach out. I\’m always excited to connect with like-minded individuals or explore new opportunities!
 
+
 ## Education
 
 University of California, Los Angeles <br>
 B.S. in Statistics and Data Science <br> 
-Sept 2021 - June 2025
+September 2021 - June 2025
 
 ## Experience
 
